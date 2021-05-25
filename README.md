@@ -1,4 +1,4 @@
 ## npm i
-## npn run dev
+## npm run dev
 ## php artisan serve
-## npn run watch
+## npm run watch
